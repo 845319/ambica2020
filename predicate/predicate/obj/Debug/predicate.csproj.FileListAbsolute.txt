@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\predicate\predicate\bin\Debug\predicate.exe.config
+C:\Users\pyr\Desktop\ambica2020\predicate\predicate\bin\Debug\predicate.exe
+C:\Users\pyr\Desktop\ambica2020\predicate\predicate\bin\Debug\predicate.pdb
+C:\Users\pyr\Desktop\ambica2020\predicate\predicate\obj\Debug\predicate.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\predicate\predicate\obj\Debug\predicate.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\predicate\predicate\obj\Debug\predicate.exe
+C:\Users\pyr\Desktop\ambica2020\predicate\predicate\obj\Debug\predicate.pdb

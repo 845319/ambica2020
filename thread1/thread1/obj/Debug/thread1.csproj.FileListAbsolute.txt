@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\thread1\thread1\bin\Debug\thread1.exe.config
+C:\Users\pyr\Desktop\ambica2020\thread1\thread1\bin\Debug\thread1.exe
+C:\Users\pyr\Desktop\ambica2020\thread1\thread1\bin\Debug\thread1.pdb
+C:\Users\pyr\Desktop\ambica2020\thread1\thread1\obj\Debug\thread1.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\thread1\thread1\obj\Debug\thread1.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\thread1\thread1\obj\Debug\thread1.exe
+C:\Users\pyr\Desktop\ambica2020\thread1\thread1\obj\Debug\thread1.pdb

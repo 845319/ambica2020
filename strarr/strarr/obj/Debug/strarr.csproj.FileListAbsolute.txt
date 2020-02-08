@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\strarr\strarr\bin\Debug\strarr.exe.config
+C:\Users\pyr\Desktop\ambica2020\strarr\strarr\bin\Debug\strarr.exe
+C:\Users\pyr\Desktop\ambica2020\strarr\strarr\bin\Debug\strarr.pdb
+C:\Users\pyr\Desktop\ambica2020\strarr\strarr\obj\Debug\strarr.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\strarr\strarr\obj\Debug\strarr.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\strarr\strarr\obj\Debug\strarr.exe
+C:\Users\pyr\Desktop\ambica2020\strarr\strarr\obj\Debug\strarr.pdb

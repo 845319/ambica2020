@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\dell\dell\bin\Debug\dell.exe.config
+C:\Users\pyr\Desktop\ambica2020\dell\dell\bin\Debug\dell.exe
+C:\Users\pyr\Desktop\ambica2020\dell\dell\bin\Debug\dell.pdb
+C:\Users\pyr\Desktop\ambica2020\dell\dell\obj\Debug\dell.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\dell\dell\obj\Debug\dell.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\dell\dell\obj\Debug\dell.exe
+C:\Users\pyr\Desktop\ambica2020\dell\dell\obj\Debug\dell.pdb

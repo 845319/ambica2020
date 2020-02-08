@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\task19\task19\bin\Debug\task19.exe.config
+C:\Users\pyr\Desktop\ambica2020\task19\task19\bin\Debug\task19.exe
+C:\Users\pyr\Desktop\ambica2020\task19\task19\bin\Debug\task19.pdb
+C:\Users\pyr\Desktop\ambica2020\task19\task19\obj\Debug\task19.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\task19\task19\obj\Debug\task19.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\task19\task19\obj\Debug\task19.exe
+C:\Users\pyr\Desktop\ambica2020\task19\task19\obj\Debug\task19.pdb

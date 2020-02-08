@@ -1,0 +1,2 @@
+C:\Users\pyr\Desktop\ambica2020\struc\struc\obj\Debug\struc.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\struc\struc\obj\Debug\struc.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\pyr\Desktop\ambica2020\sq1\sq1\bin\Debug\sq1.exe.config
+C:\Users\pyr\Desktop\ambica2020\sq1\sq1\bin\Debug\sq1.exe
+C:\Users\pyr\Desktop\ambica2020\sq1\sq1\bin\Debug\sq1.pdb
+C:\Users\pyr\Desktop\ambica2020\sq1\sq1\obj\Debug\sq1.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\sq1\sq1\obj\Debug\sq1.exe
+C:\Users\pyr\Desktop\ambica2020\sq1\sq1\obj\Debug\sq1.pdb

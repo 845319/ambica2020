@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\st\st\bin\Debug\st.exe.config
+C:\Users\pyr\Desktop\ambica2020\st\st\bin\Debug\st.exe
+C:\Users\pyr\Desktop\ambica2020\st\st\bin\Debug\st.pdb
+C:\Users\pyr\Desktop\ambica2020\st\st\obj\Debug\st.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\st\st\obj\Debug\st.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\st\st\obj\Debug\st.exe
+C:\Users\pyr\Desktop\ambica2020\st\st\obj\Debug\st.pdb

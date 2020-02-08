@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\aggregation\aggregation\bin\Debug\aggregation.exe.config
+C:\Users\pyr\Desktop\ambica2020\aggregation\aggregation\bin\Debug\aggregation.exe
+C:\Users\pyr\Desktop\ambica2020\aggregation\aggregation\bin\Debug\aggregation.pdb
+C:\Users\pyr\Desktop\ambica2020\aggregation\aggregation\obj\Debug\aggregation.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\aggregation\aggregation\obj\Debug\aggregation.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\aggregation\aggregation\obj\Debug\aggregation.exe
+C:\Users\pyr\Desktop\ambica2020\aggregation\aggregation\obj\Debug\aggregation.pdb

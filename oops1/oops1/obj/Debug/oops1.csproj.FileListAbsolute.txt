@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\oops1\oops1\bin\Debug\oops1.exe.config
+C:\Users\pyr\Desktop\ambica2020\oops1\oops1\bin\Debug\oops1.exe
+C:\Users\pyr\Desktop\ambica2020\oops1\oops1\bin\Debug\oops1.pdb
+C:\Users\pyr\Desktop\ambica2020\oops1\oops1\obj\Debug\oops1.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\oops1\oops1\obj\Debug\oops1.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\oops1\oops1\obj\Debug\oops1.exe
+C:\Users\pyr\Desktop\ambica2020\oops1\oops1\obj\Debug\oops1.pdb

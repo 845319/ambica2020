@@ -1,0 +1,6 @@
+C:\Users\pyr\Desktop\ambica2020\str4\str4\bin\Debug\str4.exe.config
+C:\Users\pyr\Desktop\ambica2020\str4\str4\bin\Debug\str4.exe
+C:\Users\pyr\Desktop\ambica2020\str4\str4\bin\Debug\str4.pdb
+C:\Users\pyr\Desktop\ambica2020\str4\str4\obj\Debug\str4.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\str4\str4\obj\Debug\str4.exe
+C:\Users\pyr\Desktop\ambica2020\str4\str4\obj\Debug\str4.pdb

@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\pyr\Desktop\ambica2020\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\pyr\Desktop\ambica2020\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\pyr\Desktop\ambica2020\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\pyr\Desktop\ambica2020\sql1\sql1\obj\Debug\sql1.pdb

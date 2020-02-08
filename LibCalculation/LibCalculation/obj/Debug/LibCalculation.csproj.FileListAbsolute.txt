@@ -1,0 +1,5 @@
+C:\Users\pyr\Desktop\ambica2020\LibCalculation\LibCalculation\bin\Debug\LibCalculation.dll
+C:\Users\pyr\Desktop\ambica2020\LibCalculation\LibCalculation\bin\Debug\LibCalculation.pdb
+C:\Users\pyr\Desktop\ambica2020\LibCalculation\LibCalculation\obj\Debug\LibCalculation.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\LibCalculation\LibCalculation\obj\Debug\LibCalculation.dll
+C:\Users\pyr\Desktop\ambica2020\LibCalculation\LibCalculation\obj\Debug\LibCalculation.pdb

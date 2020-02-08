@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\bike\bike\bin\Debug\bike.exe.config
+C:\Users\pyr\Desktop\ambica2020\bike\bike\bin\Debug\bike.exe
+C:\Users\pyr\Desktop\ambica2020\bike\bike\bin\Debug\bike.pdb
+C:\Users\pyr\Desktop\ambica2020\bike\bike\obj\Debug\bike.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\bike\bike\obj\Debug\bike.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\bike\bike\obj\Debug\bike.exe
+C:\Users\pyr\Desktop\ambica2020\bike\bike\obj\Debug\bike.pdb

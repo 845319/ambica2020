@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\fileio\fileio\bin\Debug\fileio.exe.config
+C:\Users\pyr\Desktop\ambica2020\fileio\fileio\bin\Debug\fileio.exe
+C:\Users\pyr\Desktop\ambica2020\fileio\fileio\bin\Debug\fileio.pdb
+C:\Users\pyr\Desktop\ambica2020\fileio\fileio\obj\Debug\fileio.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\fileio\fileio\obj\Debug\fileio.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\fileio\fileio\obj\Debug\fileio.exe
+C:\Users\pyr\Desktop\ambica2020\fileio\fileio\obj\Debug\fileio.pdb

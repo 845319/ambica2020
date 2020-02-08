@@ -1,0 +1,9 @@
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\bin\Debug\ConsoleAppUsingCalLib.exe.config
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\bin\Debug\ConsoleAppUsingCalLib.exe
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\bin\Debug\ConsoleAppUsingCalLib.pdb
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\bin\Debug\LibCalculation.dll
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\bin\Debug\LibCalculation.pdb
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\obj\Debug\ConsoleAppUsingCalLib.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\obj\Debug\ConsoleAppUsingCalLib.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\obj\Debug\ConsoleAppUsingCalLib.exe
+C:\Users\pyr\Desktop\ambica2020\ConsoleAppUsingCalLib\ConsoleAppUsingCalLib\obj\Debug\ConsoleAppUsingCalLib.pdb

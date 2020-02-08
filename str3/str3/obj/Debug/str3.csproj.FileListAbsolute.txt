@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\str3\str3\bin\Debug\str3.exe.config
+C:\Users\pyr\Desktop\ambica2020\str3\str3\bin\Debug\str3.exe
+C:\Users\pyr\Desktop\ambica2020\str3\str3\bin\Debug\str3.pdb
+C:\Users\pyr\Desktop\ambica2020\str3\str3\obj\Debug\str3.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\str3\str3\obj\Debug\str3.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\str3\str3\obj\Debug\str3.exe
+C:\Users\pyr\Desktop\ambica2020\str3\str3\obj\Debug\str3.pdb

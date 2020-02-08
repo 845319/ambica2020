@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\task2\task2\bin\Debug\task2.exe.config
+C:\Users\pyr\Desktop\ambica2020\task2\task2\bin\Debug\task2.exe
+C:\Users\pyr\Desktop\ambica2020\task2\task2\bin\Debug\task2.pdb
+C:\Users\pyr\Desktop\ambica2020\task2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\task2\task2\obj\Debug\task2.exe
+C:\Users\pyr\Desktop\ambica2020\task2\task2\obj\Debug\task2.pdb

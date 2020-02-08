@@ -1,0 +1,6 @@
+C:\Users\pyr\Desktop\ambica2020\fly\fly\bin\Debug\fly.exe.config
+C:\Users\pyr\Desktop\ambica2020\fly\fly\bin\Debug\fly.exe
+C:\Users\pyr\Desktop\ambica2020\fly\fly\bin\Debug\fly.pdb
+C:\Users\pyr\Desktop\ambica2020\fly\fly\obj\Debug\fly.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\fly\fly\obj\Debug\fly.exe
+C:\Users\pyr\Desktop\ambica2020\fly\fly\obj\Debug\fly.pdb

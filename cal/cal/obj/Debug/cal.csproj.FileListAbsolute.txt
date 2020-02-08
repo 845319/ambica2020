@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\cal\cal\bin\Debug\cal.exe.config
+C:\Users\pyr\Desktop\ambica2020\cal\cal\bin\Debug\cal.exe
+C:\Users\pyr\Desktop\ambica2020\cal\cal\bin\Debug\cal.pdb
+C:\Users\pyr\Desktop\ambica2020\cal\cal\obj\Debug\cal.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\cal\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\cal\cal\obj\Debug\cal.exe
+C:\Users\pyr\Desktop\ambica2020\cal\cal\obj\Debug\cal.pdb

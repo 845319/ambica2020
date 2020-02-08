@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\ClasslibCalculation\ClasslibCalculation\bin\Debug\ClasslibCalculation.exe.config
+C:\Users\pyr\Desktop\ambica2020\ClasslibCalculation\ClasslibCalculation\bin\Debug\ClasslibCalculation.exe
+C:\Users\pyr\Desktop\ambica2020\ClasslibCalculation\ClasslibCalculation\bin\Debug\ClasslibCalculation.pdb
+C:\Users\pyr\Desktop\ambica2020\ClasslibCalculation\ClasslibCalculation\obj\Debug\ClasslibCalculation.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\ClasslibCalculation\ClasslibCalculation\obj\Debug\ClasslibCalculation.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\ClasslibCalculation\ClasslibCalculation\obj\Debug\ClasslibCalculation.exe
+C:\Users\pyr\Desktop\ambica2020\ClasslibCalculation\ClasslibCalculation\obj\Debug\ClasslibCalculation.pdb

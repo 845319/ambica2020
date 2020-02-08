@@ -1,0 +1,7 @@
+C:\Users\pyr\Desktop\ambica2020\exceptions\exceptions\bin\Debug\exceptions.exe.config
+C:\Users\pyr\Desktop\ambica2020\exceptions\exceptions\bin\Debug\exceptions.exe
+C:\Users\pyr\Desktop\ambica2020\exceptions\exceptions\bin\Debug\exceptions.pdb
+C:\Users\pyr\Desktop\ambica2020\exceptions\exceptions\obj\Debug\exceptions.csprojResolveAssemblyReference.cache
+C:\Users\pyr\Desktop\ambica2020\exceptions\exceptions\obj\Debug\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\exceptions\exceptions\obj\Debug\exceptions.exe
+C:\Users\pyr\Desktop\ambica2020\exceptions\exceptions\obj\Debug\exceptions.pdb

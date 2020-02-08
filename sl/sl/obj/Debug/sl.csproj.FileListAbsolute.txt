@@ -1,0 +1,6 @@
+C:\Users\pyr\Desktop\ambica2020\sl\sl\bin\Debug\sl.exe.config
+C:\Users\pyr\Desktop\ambica2020\sl\sl\bin\Debug\sl.exe
+C:\Users\pyr\Desktop\ambica2020\sl\sl\bin\Debug\sl.pdb
+C:\Users\pyr\Desktop\ambica2020\sl\sl\obj\Debug\sl.csproj.CoreCompileInputs.cache
+C:\Users\pyr\Desktop\ambica2020\sl\sl\obj\Debug\sl.exe
+C:\Users\pyr\Desktop\ambica2020\sl\sl\obj\Debug\sl.pdb
