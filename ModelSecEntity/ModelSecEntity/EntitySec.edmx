@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl" Namespace="EntitySec.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005">
+        <EntityContainer Name="EntitySecTargetContainer" >
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="EntitySec" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="EntitySecContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="cats" EntityType="EntitySec.cat" />
+          <EntitySet Name="pros" EntityType="EntitySec.pro" />
+          <AssociationSet Name="catpro" Association="EntitySec.catpro">
+            <End Role="cat" EntitySet="cats" />
+            <End Role="pro" EntitySet="pros" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="cat">
+          <Key>
+            <PropertyRef Name="catid" />
+          </Key>
+          <Property Name="catid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="catname" Type="String" Nullable="false" />
+          <NavigationProperty Name="pros" Relationship="EntitySec.catpro" FromRole="cat" ToRole="pro" />
+        </EntityType>
+        <EntityType Name="pro">
+          <Key>
+            <PropertyRef Name="proid" />
+          </Key>
+          <Property Name="proid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="proname" Type="String" Nullable="false" />
+          <Property Name="proprice" Type="Double" Nullable="false" />
+          <Property Name="catid" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="cats" Relationship="EntitySec.catpro" FromRole="pro" ToRole="cat" />
+          <Property Name="cat_catid" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="catpro">
+          <End Type="EntitySec.cat" Role="cat" Multiplicity="1" />
+          <End Type="EntitySec.pro" Role="pro" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="cat">
+              <PropertyRef Name="catid" />
+            </Principal>
+            <Dependent Role="pro">
+              <PropertyRef Name="cat_catid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="EntitySec" />
+        <Alias Key="Target" Value="EntitySec.Store" />
+        <EntityContainerMapping CdmEntityContainer="EntitySecContainer" StorageEntityContainer="EntitySecTargetContainer">
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

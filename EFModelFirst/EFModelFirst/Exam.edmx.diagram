@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f4a0c67bb94540a89fd18edb29ec343d" Name="Diagram1" >
+        <EntityTypeShape EntityType="Exam.Student" Width="1.5" PointX="0.5" PointY="1.625" />
+        <EntityTypeShape EntityType="Exam.Course" Width="1.5" PointX="2.125" PointY="4.75" />
+        <EntityTypeShape EntityType="Exam.Subject" Width="1.5" PointX="3.875" PointY="1.625" />
+        <EntityTypeShape EntityType="Exam.Invigilator" Width="1.5" PointX="5.5" PointY="4.25" />
+        <EntityTypeShape EntityType="Exam.School" Width="1.5" PointX="8" PointY="5" />
+        <AssociationConnector Association="Exam.CourseStudent" />
+        <AssociationConnector Association="Exam.CourseSubject" />
+        <EntityTypeShape EntityType="Exam.Exam" Width="1.5" PointX="6.625" PointY="1.625" />
+        <AssociationConnector Association="Exam.SchoolInvigilator" />
+        <AssociationConnector Association="Exam.ExamSchool" />
+        <AssociationConnector Association="Exam.SchoolSubject" />
+        <AssociationConnector Association="Exam.ExamStudent" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="EntityModel3.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="EntityModel3StoreContainer">
+    <EntitySet Name="prods" EntityType="EntityModel3.Store.prods" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="catoes" EntityType="EntityModel3.Store.catoes" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="prods">
+    <Key>
+      <PropertyRef Name="prodid" />
+    </Key>
+    <Property Name="prodid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="prodprice" Type="float" Nullable="false" />
+    <Property Name="prodtitle" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="catoid" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="catoes">
+    <Key>
+      <PropertyRef Name="catoid" />
+    </Key>
+    <Property Name="catoid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="catoname" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="EntityModel3" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="EntityModel3Container" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="prous" EntityType="EntityModel3.prou" />
+          <EntitySet Name="catus" EntityType="EntityModel3.catu" />
+        </EntityContainer>
+        <EntityType Name="prou">
+          <Key>
+            <PropertyRef Name="prouid" />
+          </Key>
+          <Property Name="prouid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="prouprice" Type="Double" Nullable="false" />
+          <Property Name="proutitle" Type="String" Nullable="false" />
+          <Property Name="catuid" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="catu">
+          <Key>
+            <PropertyRef Name="catuid" />
+          </Key>
+          <Property Name="catuid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="catuname" Type="String" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EntityModel3StoreContainer" CdmEntityContainer="EntityModel3Container">
+    <EntitySetMapping Name="prous">
+      <EntityTypeMapping TypeName="IsTypeOf(EntityModel3.prou)">
+        <MappingFragment StoreEntitySet="prods">
+          <ScalarProperty Name="prouid" ColumnName="prodid" />
+          <ScalarProperty Name="prouprice" ColumnName="prodprice" />
+          <ScalarProperty Name="proutitle" ColumnName="prodtitle" />
+          <ScalarProperty Name="catuid" ColumnName="catoid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="catus">
+      <EntityTypeMapping TypeName="IsTypeOf(EntityModel3.catu)">
+        <MappingFragment StoreEntitySet="catoes">
+          <ScalarProperty Name="catuid" ColumnName="catoid" />
+          <ScalarProperty Name="catuname" ColumnName="catoname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
