@@ -1,0 +1,34 @@
+﻿@model _31_task.movie
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>movie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Mv_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mv_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mv_Rate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mv_Rate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Mv_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
